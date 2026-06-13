@@ -1,6 +1,5 @@
 -- Problem: Histogram of Tweets
 -- Platform: DataLemur
--- Difficulty: Easy
 -- Link: https://datalemur.com/questions/sql-histogram-tweets
 
 SELECT
