@@ -1,10 +1,5 @@
 # SQL Practice — DataLemur
 
-Daily SQL practice using DataLemur interview questions.  
-Topics: joins, window functions, aggregations, subqueries, CTEs.
-
-[![DataLemur](https://img.shields.io/badge/Practice%20on-DataLemur-orange?style=flat)](https://datalemur.com)
-
 ---
 
 ## Progress
@@ -17,10 +12,16 @@ Topics: joins, window functions, aggregations, subqueries, CTEs.
 
 ---
 
-## Solutions
-
-*Solutions will be added as I complete each problem.*
+# — Leetcode
 
 ---
 
-*Updated regularly as I work through DataLemur's SQL interview questions.*
+## Progress
+
+| Difficulty | Count |
+|---|---|
+| Easy | 0 |
+| Medium | 0 |
+| Hard | 0 |
+
+*Updated regularly as I work through DataLemur & Leetcode's SQL interview questions.*
