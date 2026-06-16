@@ -11,7 +11,7 @@ Topics: joins, window functions, aggregations, subqueries, CTEs.
 
 | Difficulty | Count |
 |---|---|
-| Easy | 8 |
+| Easy | 13 |
 | Medium | 0 |
 | Hard | 0 |
 
