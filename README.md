@@ -4,4 +4,4 @@ SQL practice solutions from DataLemur and LeetCode, organized by difficulty. Pro
 
 | Platform | Easy | Medium | Hard |
 |----------|------|--------|------|
-| DataLemur | 21 | 8 | 0 |
+| DataLemur | 21 | 12 | 0 |
