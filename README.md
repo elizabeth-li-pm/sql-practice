@@ -12,7 +12,7 @@ Daily SQL practice solving real interview questions from **DataLemur** and **Lee
 
 | Platform | Easy | Medium | Hard | Total |
 |:--------:|:----:|:------:|:----:|:-----:|
-| **DataLemur** | 21 | 18 | 0 | **39** |
+| **DataLemur** | 21 | 19 | 1 | **41** |
 | **LeetCode** | 0 | 0 | 0 | **0** |
 
 ---
