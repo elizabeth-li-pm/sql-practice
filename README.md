@@ -1,7 +1,7 @@
 # 📊 SQL Practice
 
 ![DataLemur](https://img.shields.io/badge/DataLemur-41%20solved-FF6B6B?style=flat-square)
-![LeetCode](https://img.shields.io/badge/LeetCode-13%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-21%20solved-FFA116?style=flat-square&logo=leetcode&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-MySQL%20%7C%20PostgreSQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 Daily SQL practice solving real interview questions from **DataLemur** and **LeetCode**, organized by platform and difficulty. Solutions cover JOINs, window functions, subqueries, CTEs, aggregations, and date functions — building toward data analyst interview readiness.
@@ -13,6 +13,6 @@ Daily SQL practice solving real interview questions from **DataLemur** and **Lee
 | Platform | Easy | Medium | Hard | Total |
 |:--------:|:----:|:------:|:----:|:-----:|
 | **DataLemur** | 21 | 19 | 1 | **41** |
-| **LeetCode** | 12 | 1 | 0 | **13** |
+| **LeetCode** | 17 | 4 | 0 | **21** |
 
 ---
